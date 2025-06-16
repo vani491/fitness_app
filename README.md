@@ -1,13 +1,16 @@
-# Flutter responsive dashboard / admin panel UI
+# Fitness Tracker Dashboard 🏃‍♀️
 
-Supports for Mobile/Web/Windows/Mac/Linux app.
+A beautiful Flutter-based fitness dashboard showing steps, calories, sleep, and hydration levels.
 
-CI/CD Tool: Codemagic
+## 📦 Features
 
-Live demo: https://flutter-dashboard.codemagic.app/#/
+- Responsive design
+- Step tracking charts
+- User profile section
+- Clean architecture (upcoming)
 
-UI reference: https://dribbble.com/shots/20572883-Fitness-Dashboard-UI-Design  
+## 🚀 Getting Started
 
-## Screenshot
-
-<img width="1800" alt="Fitness Dashboard" src="https://user-images.githubusercontent.com/29474697/235890315-e1bba983-2106-4936-8420-bdb286d3cfa1.png">
+```bash
+flutter pub get
+flutter run
